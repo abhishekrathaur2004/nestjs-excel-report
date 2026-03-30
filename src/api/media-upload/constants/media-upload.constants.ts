@@ -1,0 +1,1 @@
+export const MEDIA_UPLOAD_STORAGE = Symbol('MEDIA_UPLOAD_STORAGE');
